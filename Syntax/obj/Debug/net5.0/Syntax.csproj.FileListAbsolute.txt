@@ -1,0 +1,16 @@
+C:\Users\Customer\repos\Syntax\Syntax\bin\Debug\net5.0\Syntax.exe
+C:\Users\Customer\repos\Syntax\Syntax\bin\Debug\net5.0\Syntax.deps.json
+C:\Users\Customer\repos\Syntax\Syntax\bin\Debug\net5.0\Syntax.runtimeconfig.json
+C:\Users\Customer\repos\Syntax\Syntax\bin\Debug\net5.0\Syntax.runtimeconfig.dev.json
+C:\Users\Customer\repos\Syntax\Syntax\bin\Debug\net5.0\Syntax.dll
+C:\Users\Customer\repos\Syntax\Syntax\bin\Debug\net5.0\Syntax.pdb
+C:\Users\Customer\repos\Syntax\Syntax\obj\Debug\net5.0\Syntax.csproj.AssemblyReference.cache
+C:\Users\Customer\repos\Syntax\Syntax\obj\Debug\net5.0\Syntax.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Customer\repos\Syntax\Syntax\obj\Debug\net5.0\Syntax.AssemblyInfoInputs.cache
+C:\Users\Customer\repos\Syntax\Syntax\obj\Debug\net5.0\Syntax.AssemblyInfo.cs
+C:\Users\Customer\repos\Syntax\Syntax\obj\Debug\net5.0\Syntax.csproj.CoreCompileInputs.cache
+C:\Users\Customer\repos\Syntax\Syntax\obj\Debug\net5.0\Syntax.dll
+C:\Users\Customer\repos\Syntax\Syntax\obj\Debug\net5.0\refint\Syntax.dll
+C:\Users\Customer\repos\Syntax\Syntax\obj\Debug\net5.0\Syntax.pdb
+C:\Users\Customer\repos\Syntax\Syntax\obj\Debug\net5.0\Syntax.genruntimeconfig.cache
+C:\Users\Customer\repos\Syntax\Syntax\obj\Debug\net5.0\ref\Syntax.dll
